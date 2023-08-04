@@ -1,0 +1,143 @@
+html, body{
+    height:100%;
+    width:100%;
+ }
+ #bodyHome{
+    background-color:#4a4a47;
+ }
+ #bodyHome1{
+    background-color:#4a4a47;
+ }
+ #bodyHome2{
+    background-color:#4a4a47;
+ }
+ 
+ 
+ .navHome{
+ text-align:center;
+ }
+ 
+ .nav1{
+    margin:100px;
+    font-size:20px;
+    color:#58adfc;
+ }
+ .nav2{
+    font-size:20px;
+    color:#58adfc;
+ }
+ .nav3{
+    margin:100px;
+    font-size:20px;
+    color:#58adfc;
+ }
+ 
+ .Home{
+   display:flex;
+   justify-content:flex-start;
+  
+ 
+ 
+ }
+ #h1Home{
+    font-size:50px;
+    margin:50px;
+ }
+ 
+ #icon1{
+    font-size:75px;
+    margin-top:25px;
+    color:white;
+ }
+ #pHome{
+    font-size:25px;
+    margin-left:55px;
+    margin-top:-30px;
+ }
+ 
+ 
+ 
+ 
+ #h1About{
+    margin:25px;
+    font-size:50px;
+    text-align:center
+ }
+ #p1About{
+    font-size:30px;
+    color:white;
+ }
+ #p2About{
+    font-size:30px;
+    color:white;
+ }
+ .allProjects{
+    display:flex;
+    justify-content:flex-start;
+ }
+ .Projects{
+    width:100%;
+    height:auto;
+   border:solid 15px black;
+   margin:top-left;
+   background:black;
+   padding:15px;
+   color:white;
+ }
+ 
+ .Project1{
+    width:90%;
+    height:auto;
+   border:solid 15px black;
+   margin:top-left;
+   background:#212f80;
+   padding:15px;
+   color:white;
+ }
+ 
+ 
+ .Project2{
+    width:90%;
+    height:auto;
+   border:solid 15px black;
+   margin:top-left;
+   background:
+   #800814
+   ;
+   padding:15px;
+   color:white;
+ }
+ #MyProjects{
+    font-size:50px;
+ }
+ 
+ #contact{
+   margin-left:240px;
+    color:black;
+    margin-top:200px;
+    font-size:30px;
+    border:8px solid darkred;
+ 
+ }
+ #info{
+    text-align:center;
+    color:antiquewhite;
+    font-size:30px
+ }
+ 
+ #pButton{
+    margin-left:240px;
+    color:black;
+    margin: top 200px;
+    font-size:30px;
+    border:8px solid darkred;
+ }
+ #personal{
+    text-align:center;
+    color:antiquewhite;
+    font-size:30px
+ }
+ 
+ 
+ 
+ 
